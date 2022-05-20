@@ -1,27 +1,27 @@
 {
-    "id": "7B34FB4D",
-    "path": "G:/OneDrive/Desktop/ShortLAB04/Lab04.rmd",
-    "project_path": null,
+    "id": "EC9F3048",
+    "path": "G:/OneDrive/Desktop/ShortLAB04/ShotLAB04/short-lab4.rmd",
+    "project_path": "short-lab4.rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2851328272",
     "contents": "",
     "dirty": false,
-    "created": 1653024094508.0,
+    "created": 1653024620109.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
         "cursorPosition": "38,0",
-        "scrollLine": "0"
+        "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1653024164,
+    "lastKnownWriteTime": 1653024660,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1653024164,
+    "last_content_update": 1653024660331,
     "read_only": false,
     "read_only_alternatives": []
 }
